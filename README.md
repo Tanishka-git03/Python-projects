@@ -1,4 +1,4 @@
 # python-projects
-This is my first Git Repository.
+Here are my Python projects.
 <br>
-Author - Tanishka Jain(Github)
+Author - Tanishka Jain
